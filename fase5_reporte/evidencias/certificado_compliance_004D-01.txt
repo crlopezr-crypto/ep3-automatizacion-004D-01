@@ -1,0 +1,29 @@
+
+==============================================================
+     CERTIFICADO DE COMPLIANCE — IMPLEMENTACION DE RED
+==============================================================
+
+Alumno          : Lopez Reinun Cristopher
+Codigo          : 004D-01
+Empresa cliente : LogisticaNorte SA
+Hostname router : RTR-LOGNORTE
+Fecha           : 2026-06-20 23:28:52
+
+--------------------------------------------------------------
+RESULTADO DE VALIDACIONES
+--------------------------------------------------------------
+
+Validacion NETCONF  : CONFORME
+Validacion RESTCONF : CONFORME
+Diff baseline/final : DETECTADO
+
+--------------------------------------------------------------
+RESULTADO GLOBAL DE COMPLIANCE
+--------------------------------------------------------------
+
+CONFORME — El equipo cumple con todos los parametros corporativos
+
+El dispositivo RTR-LOGNORTE ha sido aprovisionado exitosamente
+y esta listo para operar en la red de LogisticaNorte SA.
+
+==============================================================

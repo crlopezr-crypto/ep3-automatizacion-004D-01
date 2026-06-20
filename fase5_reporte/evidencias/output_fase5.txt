@@ -1,0 +1,92 @@
+
+Learning '['interface', 'platform', 'routing']' on devices '['RTR-LOGNORTE']'
+  0%|          | 0/3 [00:00<?, ?it/s] 33%|███▎      | 1/3 [00:01<00:02,  1.00s/it] 67%|██████▋   | 2/3 [00:09<00:03,  3.18s/it]100%|██████████| 3/3 [00:09<00:00,  2.38s/it]100%|██████████| 3/3 [00:09<00:00,  3.26s/it]+==============================================================================+
+| Genie Learn Summary for device RTR-LOGNORTE                                  |
++==============================================================================+
+|  Connected to RTR-LOGNORTE                                                   |
+|  -   Log: evidencias/snapshot_final_004D-01/connection_RTR-LOGNORTE.txt      |
+|------------------------------------------------------------------------------|
+|  Learnt feature 'interface'                                                  |
+|  -  Ops structure:  evidencias/snapshot_final_004D-01/interface_iosxe_RTR-   |
+| LOGNORTE_ops.txt                                                             |
+|  -  Device Console: evidencias/snapshot_final_004D-01/interface_iosxe_RTR-   |
+| LOGNORTE_console.txt                                                         |
+|------------------------------------------------------------------------------|
+|  Learnt feature 'platform'                                                   |
+|  -  Ops structure:  evidencias/snapshot_final_004D-01/platform_iosxe_RTR-    |
+| LOGNORTE_ops.txt                                                             |
+|  -  Device Console: evidencias/snapshot_final_004D-01/platform_iosxe_RTR-    |
+| LOGNORTE_console.txt                                                         |
+|------------------------------------------------------------------------------|
+|  Learnt feature 'routing'                                                    |
+|  -  Ops structure:  evidencias/snapshot_final_004D-01/routing_iosxe_RTR-     |
+| LOGNORTE_ops.txt                                                             |
+|  -  Device Console: evidencias/snapshot_final_004D-01/routing_iosxe_RTR-     |
+| LOGNORTE_console.txt                                                         |
+|==============================================================================|
+
+
+
+
+
+==============================================================
+     CERTIFICADO DE COMPLIANCE — IMPLEMENTACION DE RED
+==============================================================
+
+Alumno          : Lopez Reinun Cristopher
+Codigo          : 004D-01
+Empresa cliente : LogisticaNorte SA
+Hostname router : RTR-LOGNORTE
+Fecha           : 2026-06-20 23:26:09
+
+--------------------------------------------------------------
+RESULTADO DE VALIDACIONES
+--------------------------------------------------------------
+
+Validacion NETCONF  : CONFORME
+Validacion RESTCONF : CONFORME
+Diff baseline/final : SIN CAMBIOS
+
+--------------------------------------------------------------
+RESULTADO GLOBAL DE COMPLIANCE
+--------------------------------------------------------------
+
+NO CONFORME — Revisar validaciones fallidas
+
+El dispositivo RTR-LOGNORTE ha sido aprovisionado exitosamente
+y esta listo para operar en la red de LogisticaNorte SA.
+
+==============================================================
+
+Certificado guardado en: /home/devasc/ep3-automatizacion-004D-01/fase5_reporte/evidencias/certificado_compliance_004D-01.txt
+
+==============================================================
+     CERTIFICADO DE COMPLIANCE — IMPLEMENTACION DE RED
+==============================================================
+
+Alumno          : Lopez Reinun Cristopher
+Codigo          : 004D-01
+Empresa cliente : LogisticaNorte SA
+Hostname router : RTR-LOGNORTE
+Fecha           : 2026-06-20 23:28:52
+
+--------------------------------------------------------------
+RESULTADO DE VALIDACIONES
+--------------------------------------------------------------
+
+Validacion NETCONF  : CONFORME
+Validacion RESTCONF : CONFORME
+Diff baseline/final : DETECTADO
+
+--------------------------------------------------------------
+RESULTADO GLOBAL DE COMPLIANCE
+--------------------------------------------------------------
+
+CONFORME — El equipo cumple con todos los parametros corporativos
+
+El dispositivo RTR-LOGNORTE ha sido aprovisionado exitosamente
+y esta listo para operar en la red de LogisticaNorte SA.
+
+==============================================================
+
+Certificado guardado en: /home/devasc/ep3-automatizacion-004D-01/fase5_reporte/evidencias/certificado_compliance_004D-01.txt

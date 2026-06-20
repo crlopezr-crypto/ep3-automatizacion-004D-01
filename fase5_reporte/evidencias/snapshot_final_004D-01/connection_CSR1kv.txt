@@ -1,0 +1,50 @@
+[2026-06-20 23:12:10,255] +++ CSR1kv logfile evidencias/snapshot_final_004D-01/connection_CSR1kv.txt +++
+[2026-06-20 23:12:10,255] +++ Unicon plugin iosxe +++
+Password: 
+[2026-06-20 23:12:10,696] +++ connection to spawn: ssh -l cisco 192.168.160.132 -p 22 -o KexAlgorithms=diffie-hellman-group14-sha1 -o StrictHostKeyChecking=no, id: 140468233116688 +++
+[2026-06-20 23:12:10,696] connection to CSR1kv
+
+ ACCESO RESTRINGIDO - LOGNORTE 
+
+RTR-LOGNORTE#[2026-06-20 23:12:35,887] +++ CSR1kv logfile evidencias/snapshot_final_004D-01/connection_CSR1kv.txt +++
+[2026-06-20 23:12:35,887] +++ Unicon plugin iosxe +++
+ssh: connect to host 192.168.160.132 port 22: Network is unreachable
+
+[2026-06-20 23:12:35,894] +++ connection to spawn: ssh -l cisco 192.168.160.132 -p 22 -o KexAlgorithms=diffie-hellman-group14-sha1 -o StrictHostKeyChecking=no, id: 140029274918144 +++
+[2026-06-20 23:12:35,894] connection to CSR1kv
+[2026-06-20 23:12:51,094] +++ CSR1kv logfile evidencias/snapshot_final_004D-01/connection_CSR1kv.txt +++
+[2026-06-20 23:12:51,094] +++ Unicon plugin iosxe +++
+Password: 
+[2026-06-20 23:12:51,331] +++ connection to spawn: ssh -l cisco 192.168.160.132 -p 22 -o KexAlgorithms=diffie-hellman-group14-sha1 -o StrictHostKeyChecking=no, id: 140060586106112 +++
+[2026-06-20 23:12:51,331] connection to CSR1kv
+
+ ACCESO RESTRINGIDO - LOGNORTE 
+
+
+RTR-LOGNORTE#[2026-06-20 23:14:32,581] +++ CSR1kv logfile evidencias/snapshot_final_004D-01/connection_CSR1kv.txt +++
+[2026-06-20 23:14:32,581] +++ Unicon plugin iosxe +++
+Password: 
+[2026-06-20 23:14:33,010] +++ connection to spawn: ssh -l cisco 192.168.160.132 -p 22 -o KexAlgorithms=diffie-hellman-group14-sha1 -o StrictHostKeyChecking=no, id: 140497081511168 +++
+[2026-06-20 23:14:33,010] connection to CSR1kv
+
+ ACCESO RESTRINGIDO - LOGNORTE 
+
+
+RTR-LOGNORTE#[2026-06-20 23:18:10,719] +++ CSR1kv logfile evidencias/snapshot_final_004D-01/connection_CSR1kv.txt +++
+[2026-06-20 23:18:10,720] +++ Unicon plugin iosxe +++
+Password: 
+[2026-06-20 23:18:11,172] +++ connection to spawn: ssh -l cisco 192.168.160.132 -p 22 -o KexAlgorithms=diffie-hellman-group14-sha1 -o StrictHostKeyChecking=no, id: 140083518078208 +++
+[2026-06-20 23:18:11,172] connection to CSR1kv
+
+ ACCESO RESTRINGIDO - LOGNORTE 
+
+
+RTR-LOGNORTE#[2026-06-20 23:21:07,616] +++ CSR1kv logfile evidencias/snapshot_final_004D-01/connection_CSR1kv.txt +++
+[2026-06-20 23:21:07,616] +++ Unicon plugin iosxe +++
+Password: 
+[2026-06-20 23:21:07,850] +++ connection to spawn: ssh -l cisco 192.168.160.132 -p 22 -o KexAlgorithms=diffie-hellman-group14-sha1 -o StrictHostKeyChecking=no, id: 139776065854720 +++
+[2026-06-20 23:21:07,850] connection to CSR1kv
+
+ ACCESO RESTRINGIDO - LOGNORTE 
+
+RTR-LOGNORTE#
