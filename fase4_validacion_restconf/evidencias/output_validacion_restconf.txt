@@ -1,0 +1,28 @@
+============================================================
+Script  : validacion_restconf.py
+Fecha   : 2026-06-20 23:00:18.840196
+Host VM : labvm
+============================================================
+
+Ejecutando consultas RESTCONF...
+Guardado: get_hostname.json
+Guardado: get_loopback.json
+Guardado: get_interfaces.json
+Guardado: get_ntp.json
+
+--- REPORTE DE VALIDACION RESTCONF ---
+[OK] Hostname corporativo
+      Esperado : RTR-LOGNORTE
+      Obtenido : RTR-LOGNORTE
+[OK] IP Loopback
+      Esperado : 10.4.1.1
+      Obtenido : 10.4.1.1
+[OK] Descripcion WAN
+      Esperado : Enlace-WAN-Santiago
+      Obtenido : Enlace-WAN-Santiago
+[OK] Servidor NTP
+      Esperado : 1.1.1.1
+      Obtenido : 1.1.1.1
+
+--- RESULTADO GLOBAL ---
+RESULTADO: CONFORME
