@@ -1,0 +1,28 @@
+============================================================
+Script  : validacion_netconf.py
+Fecha   : 2026-06-20 22:56:31.790175
+Host VM : labvm
+============================================================
+
+Conectando via NETCONF...
+XML guardado en: /home/devasc/ep3-automatizacion-004D-01/fase3_validacion_netconf/evidencias/rpc_reply_raw.xml
+
+--- REPORTE DE VALIDACION NETCONF ---
+[OK] Hostname corporativo
+      Esperado : RTR-LOGNORTE
+      Obtenido : RTR-LOGNORTE
+[OK] IP Loopback
+      Esperado : 10.4.1.1
+      Obtenido : 10.4.1.1
+[OK] Mascara Loopback
+      Esperado : 255.255.255.0
+      Obtenido : 255.255.255.0
+[OK] Descripcion WAN
+      Esperado : Enlace-WAN-Santiago
+      Obtenido : Enlace-WAN-Santiago
+[OK] Servidor NTP
+      Esperado : 1.1.1.1
+      Obtenido : 1.1.1.1
+
+--- RESULTADO GLOBAL ---
+RESULTADO: CONFORME
