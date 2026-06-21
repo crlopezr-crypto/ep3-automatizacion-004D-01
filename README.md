@@ -2,7 +2,7 @@
 
 **Alumno:** Lopez Reinun Cristopher  
 **Código:** 004D-01  
-**Curso:** DRY7122 — Programación y Redes Virtualizadas  
+**Curso:** SDNNFV_004D — Programación y Redes Virtualizadas  
 **Empresa cliente:** LogisticaNorte SA  
 **Repositorio:** ep3-automatizacion-004D-01  
 
